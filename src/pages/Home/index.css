@@ -1,0 +1,7 @@
+.beauty-button {
+  border: 1px solid #333;
+  background-color: rgb(108, 197, 226);
+}
+.beauty-button:hover {
+  background-color: lightblue;
+}
