@@ -1,2 +1,3 @@
 # react-express-ssr
-使用react和express搭建的简易ssr项目用作ssr原理的理解
+
+- 使用 react 和 express 搭建的简易 ssr 项目用作 ssr 原理的理解
